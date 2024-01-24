@@ -1,4 +1,5 @@
 #include "deck.h"
+#include <stddef.h>
 
 int _strcmp(const char *s1, const char *s2);
 char get_value(deck_node_t *card);
